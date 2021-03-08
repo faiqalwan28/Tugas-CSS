@@ -1,0 +1,105 @@
+body{
+	color: black;
+	background: #E0FFFF;
+	font-family: "Times new roman";
+	font-weight: bold;
+	background-image: url("background.jpg");
+	background-repeat: repeat;
+
+}
+
+h1{
+	font-family: "Times new Roman";
+	color: white;
+}
+
+h2{
+	font-family: "Times new Roman";
+	color: white;
+}
+
+p{
+	font-family: "Times new Roman";
+	color: white;
+}
+
+p a{
+	color: green;
+	margin-left: 13%;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+p a:hover{
+	color: white;
+}
+
+h3{
+	font-family: "Times new Roman";
+	color: white;
+	text-align: left;
+}
+
+ol ul li{
+	font-size: 18px;
+}
+
+th{
+	color: #FFFFFF;
+	background-color: #336699;
+	border-width: 0px;
+	border-style: solid;
+	border-color: red;
+	font-size: 12pt;
+}
+
+td{
+	color: black;
+	background-color: #E6E6FA;
+	border-width: 0px;
+	border-style: solid;
+	border-color: blue;
+	font-size: 12pt;
+}
+
+.penengah{
+	margin-left: 5%;
+	width:550px;
+	height: 100%;
+}
+
+.bawah{
+	background-color: black;
+	position: fixed;
+    bottom: 0;
+    padding-bottom: 15px;
+    left: 0;
+    width: 100%;
+    height: 5%;
+}
+
+.ganjel{
+	float: left;
+	width: 2%;
+	height:50%;
+}
+
+.konten{
+	float: left;
+	width: 32%;
+	height:50%;
+	background: rgba(7, 8, 7, 0.3);
+	padding-bottom: 1%;	
+}
+
+.konten p{
+	color: black;
+	padding-bottom: -10px;
+}
+.konten a{
+	color: black;
+	padding-bottom: -10px;
+}.konten a:hover{
+	color: white;
+	padding-bottom: -10px;
+}
